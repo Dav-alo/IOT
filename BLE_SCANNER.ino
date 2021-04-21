@@ -3,8 +3,8 @@
    Ported to Arduino ESP32 by Evandro Copercini
 */
 
-#define WIFI_SSID "YOURAPSSID"
-#define WIFI_PASSWORD "YOURAPPASSWORD"
+#define WIFI_SSID "Carmona"
+#define WIFI_PASSWORD "*******"
 #define POST_URL "http://YOURSERVERNAMEORIP:3000/"
 #define SCAN_TIME 30     // seconds
 #define WAIT_WIFI_LOOP 5 // around 4 seconds for 1 loop
